@@ -1,0 +1,21 @@
+.carrito{
+    display: flex;
+    justify-content: end;
+    align-content: center;
+    margin-right: 50px;
+    img {
+        align-self: center;
+    }
+    #ContadorCarrito{
+        margin-left: 5px;
+        align-self: center;
+        background-color: black;
+        color: white;
+        font-size: large;
+        font-weight: bold;
+        border-radius: 50%;
+        padding: 5px;
+        
+    }
+
+}
