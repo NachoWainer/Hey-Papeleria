@@ -4,7 +4,10 @@ import {HotProducts} from "./HotProducts/HotProducts"
 
 
 
+
+
 export const FrontStore = () => {
+   
     return(
     <div className= "FrontStore">
         <Category />

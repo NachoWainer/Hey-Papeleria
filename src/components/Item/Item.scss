@@ -1,3 +1,26 @@
-.boton{
-    color: red;
+.itemContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.itemImage{
+
+    height: 200px;
+    width: 250px;
+
+}
+.itemImageContainer{
+    align-self: center;
+    margin-bottom: 10px;
+}
+.verMasButton{
+    width: 50%;
+    align-self: center;
+    margin-bottom: 5px;
+}
+.itemInfoContainer{
+    align-self: center;
+    flex-wrap: wrap;
+    text-align: center;
 }

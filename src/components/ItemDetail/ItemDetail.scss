@@ -1,0 +1,58 @@
+.itemDetailBox{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    flex-wrap: wrap;
+    h2{
+
+        text-align:center ;
+        margin-left: 10px;
+        margin-top: 5px;
+    }
+      
+     
+  }
+  .itemDesc{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-evenly;
+    width: 500px;
+    height: auto;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+    
+
+  }
+  .price{
+    text-align: center;
+    font-size: 25px;
+  }
+  .itemDetail{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    margin-left: 10px;
+    
+    margin-top: 5px;
+    
+
+   
+}
+.imgDetail{
+        
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 500px;
+    width: 500px;
+    border: solid black 2px
+}
+.returnButton{
+    width: fit-content;
+    justify-self: end;
+    align-self: center;
+    margin-top: 50px;
+}
+
+

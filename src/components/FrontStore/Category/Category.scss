@@ -8,12 +8,23 @@
         width: 800px;
         height: 480px;
         div{
-            display: flex;
-            justify-content: center;
-            align-content: center;
-            flex-wrap: wrap;
-            overflow: hidden;
-            color: white;
+            display: flex ;
+            justify-content: center ;
+            align-content: center ;
+            flex-wrap: wrap ;
+            overflow: hidden ;
+            color: white ;
+            cursor: pointer;
+            a{
+                display: flex;
+                justify-content: center;
+                align-content: center;
+                flex-wrap: wrap;
+                height: 100%;
+                width:100%;
+                text-decoration: none;
+                color: red;
+            }
             
             
             &:hover{
@@ -21,6 +32,9 @@
                 opacity: 1;
                 filter: contrast(100%);
             } 
+
+            
+        
     }}
 }
 .jugueteria{

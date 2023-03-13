@@ -10,8 +10,13 @@
     
 }
 .logoNombre{
+    text-decoration: none;
+    color: black;
     display: flex;
     margin-left: 30px;
+    &:hover{
+        color: gray;
+    }
     img{
         height: 64px;
     }

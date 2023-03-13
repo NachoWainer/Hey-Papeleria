@@ -1,5 +1,6 @@
 import './Header.scss'
 import { CartWidget } from "../CartWidget/CartWidget";
+import { Link } from 'react-router-dom';
 export const Header = () => {
 
     return(
@@ -7,10 +8,10 @@ export const Header = () => {
         <div>
 
             <div className="logo">
-                <div className="logoNombre">
-                    <img src='./images/bot64.png' />
+                <Link to={"/"} className="logoNombre">
+                    <img src='../../images/bot64.png' />
                     <h1 className="title">Hey</h1>
-                </div>
+                </Link>
                 <CartWidget />
             </div>
 

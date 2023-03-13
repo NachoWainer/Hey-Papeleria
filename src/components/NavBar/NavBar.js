@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import './NavBar.scss'
 
 export const NavBar = () => {
@@ -5,10 +6,10 @@ export const NavBar = () => {
 
         <nav className="barraBusqueda">
                     <div>
-                        <a href="">Papelería<img src ="./images/papel24.png"/></a>
-                        <a href="">Juguetes<img src ="./images/juguetes24.png"/></a>
-                        <a href="">Libros<img src ="./images/libro-abierto24.png"/></a>
-                        <a href="">Tecnología<img src ="./images/computadora24.png"/></a>
+                        <Link to={"/productos/papeleria"}>Papelería<img src ="../../images/papel24.png"/></Link>
+                        <Link to={"/productos/juguetes"}>Juguetes<img src ="../../images/juguetes24.png"/></Link>
+                        <Link to={"/productos/libros"}>Libros<img src ="../../images/libro-abierto24.png"/></Link>
+                        <Link to={"/productos/tecnologia"}>Tecnología<img src ="../../images/computadora24.png"/></Link>
                     </div>
 
                 </nav>

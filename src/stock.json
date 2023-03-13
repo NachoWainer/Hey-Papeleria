@@ -7,18 +7,20 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " ,
         "img":"/products/jugueteria/ajedrez.jpg"
     },
     {
         "id": 1,
         "type": "juguetes",
-        "name": "combo Aro y Pelota",
+        "name": "Combo Aro y Pelota",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " ,
         "img":"/products/jugueteria/aroPelota.jpg"
     },
     {   
@@ -29,67 +31,73 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
         "img":"/products/jugueteria/bloqueAnimales.jpg"
     
     },
     {
         "id": 3,
         "type": "juguetes",
-        "name": "KIWI",
+        "name": "Bloques Lógicos",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
+        "img":"/products/jugueteria/bloquesLogicos.jpg"
     
     },
     {
         "id": 4,
         "type": "juguetes",
-        "name": "FRUTILLA",
+        "name": "Canicas",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/jugueteria/canicas.jpg"
     
     },
     {
         "id": 5,
         "type": "juguetes",
-        "name": "NARANJA",
+        "name": "Catan",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/jugueteria/catan.jpg"
     
     },
     {
         "id": 6,
         "type": "juguetes",
-        "name": "LECHUGA",
+        "name": "Cubo de Rubic",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/jugueteria/cuboRubic.jpg"
     },
     {
         "id": 7,
         "type": "juguetes",
-        "name": "TOMATE",
+        "name": "Pack dinosaurios",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/jugueteria/dinosaurios1.jpg"
     },
     {
         "id": 8,
@@ -99,104 +107,113 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/jugueteria/jugueteAnimales1.jpg"
     
     },
     {
         "id": 9,
         "type": "juguetes",
-        "name": "ZANAHORIA",
+        "name": "Monopoly",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/jugueteria/monopoly1.jpg"
     
     },
     {
         "id": 10,
         "type": "papeleria",
-        "name": "PALTA",
+        "name": "Pack acuarelas",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
+        "img":"/products/papeleria/acuarelas.jpg"
     
     },
     {
         "id": 11,
         "type": "papeleria",
-        "name": "ZAPALLO",
+        "name": "Pack crayolas",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/papeleria/crayolas.jpg"
     
     },
     {
         "id": 12,
         "type": "papeleria",
-        "name": "ZAPALLO",
+        "name": "Cuaderno",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/papeleria/cuaderno.jpg"
     
     },
     {
         "id": 13,
         "type": "papeleria",
-        "name": "ZAPALLO",
+        "name": "Lapices de colores",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
+        "img":"/products/papeleria/lapicesColores5.jpg"
     
     },
     {
         "id": 14,
         "type": "papeleria",
-        "name": "ZAPALLO",
+        "name": "Lapices para escribir",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
+        "img":"/products/papeleria/lapizEscribir1.jpg"
     
     },
     {
         "id": 15,
         "type": "papeleria",
-        "name": "ZAPALLO",
+        "name": "Papel de Regalo",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/papeleria/papelRegalo.jpg"
     
     },
     {
         "id": 16,
         "type": "papeleria",
-        "name": "ZAPALLO",
+        "name": "Pinceles",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/papeleria/pinturas.jpg"
     
     },
     {
@@ -207,102 +224,111 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
+        "img":"/products/papeleria/pistolaSilicona.jpg"
     
     },
     {
         "id": 18,
-        "type": "papeleria",
-        "name": "ZAPALLO",
+        "type": "tecnologia",
+        "name": "Auriculares",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
+        "img":"/products/tecnologia/auriculares.jpg"
     
     },
     {
         "id": 19,
-        "type": "papeleria",
-        "name": "ZAPALLO",
+        "type": "tecnologia",
+        "name": "Consola videojuegos",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
+        "img":"/products/tecnologia/consola.jpg"
     
     },
     {
         "id": 20,
-        "type": "libros",
-        "name": "MANZANA",
+        "type": "tecnologia",
+        "name": "Control consola",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/tecnologia/control.jpg"
     },
     {
         "id": 21,
-        "type": "libros",
-       "name": "BANANA",
+        "type": "tecnologia",
+       "name": "Gameboy",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/tecnologia/gameboy.jpg"
     },
     {   
         "id": 22,
-        "type": "libros",
-        "name": "PERA",
+        "type": "tecnologia",
+        "name": "monitor",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/tecnologia/monitor.jpg"
     
     },
     {
         "id": 23,
-        "type": "libros",
-        "name": "KIWI",
+        "type": "tecnologia",
+        "name": "Teclado Gamer",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/tecnologia/tecladoGamer.jpg"
     
     },
     {
         "id": 24,
-        "type": "libros",
-        "name": "FRUTILLA",
+        "type": "tecnologia",
+        "name": "Pack Teclado y Mouse",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
+        "img":"/products/tecnologia/tecladoYMouse.jpg"
     
     },
     {
         "id": 25,
-        "type": "libros",
-        "name": "NARANJA",
+        "type": "tecnologia",
+        "name": "Tripode",
         "price": 200,
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
-        "img":"/products/jugueteria/"
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
+        "img":"/products/tecnologia/tripode.jpg"
     
     },
     {
@@ -313,7 +339,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
         "img":"/products/jugueteria/"
     },
     {
@@ -324,7 +351,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
         "img":"/products/jugueteria/"
     },
     {
@@ -335,7 +363,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
         "img":"/products/jugueteria/"
     
     },
@@ -347,7 +376,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
         "img":"/products/jugueteria/"
     
     },
@@ -359,7 +389,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
         "img":"/products/jugueteria/"
     
     },
@@ -371,7 +402,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"LLorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
         "img":"/products/jugueteria/"
     
     },
@@ -383,7 +415,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
         "img":"/products/jugueteria/"
     
     },
@@ -395,7 +428,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
         "img":"/products/jugueteria/"
     
     },
@@ -407,7 +441,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
         "img":"/products/jugueteria/"
     
     },
@@ -419,7 +454,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " ,
         "img":"/products/jugueteria/"
     
     },
@@ -431,7 +467,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " ,
         "img":"/products/jugueteria/"
     
     },
@@ -443,7 +480,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
         "img":"/products/jugueteria/"
     
     },
@@ -455,7 +493,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":" Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat.",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. " , 
         "img":"/products/jugueteria/"
     
     },
@@ -467,7 +506,8 @@
         "stock": 100,
         "qty": 1,
         "clk":0,
-        "desc":" ",
+        "desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis ipsa voluptas fugiat ducimus sequi consequatur nihil, iure ab illum officia ex perferendis, inventore quae, dolores ea quidem quis dolorum exercitationem? Consectetur modi facilis ad earum magni a blanditiis ullam hic perferendis ipsam? Non eligendi tempora iure consequuntur dolorum quos animi dolores dicta, expedita perferendis voluptatem earum voluptas, facilis nam placeat. ",
+        "shortDesc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit.  " , 
         "img":"/products/jugueteria/"
     
     }

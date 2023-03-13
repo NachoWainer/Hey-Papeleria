@@ -5,7 +5,7 @@ import ItemCount from "../ItemCount/ItemCount"
 
 
  const ItemDetail = ({item}) =>{
-    const [qty,setQty] = useState(1)
+    const [qty, setQty] = useState(1)
     const navigate = useNavigate()
     const handleGoBack = () => {navigate(-1)}
     const handleAddCart = () => {
@@ -17,19 +17,28 @@ import ItemCount from "../ItemCount/ItemCount"
     console.log(newItem)}
 
     return(
-        <div>
+        <div className="itemDetailBox">
             <h2>{item.name}</h2>
-            <img src={item.img} alt={item.name}/>
-            <p>{item.desc}</p>
-            <p>${item.price}</p>
-
-            <ItemCount
-                tope = {item.stock}
-                qty = {item.qty}
-                setQty = {setQty}
-                handleAddCart ={handleAddCart} />
-        <button onClick={handleGoBack} className="returnButton">Volver</button>
-
+            <div className='itemDetail'>
+                    <img className='imgDetail' src={item.img} alt={item.name}/>
+                    <div className= "itemDesc">
+                        <div>
+                            <p>{item.desc}</p>
+                            
+                        </div>
+                        <div>
+                        <p className='price'>${item.price}</p>
+                        
+                        <ItemCount
+                            tope = {item.stock}
+                            qty = {qty}
+                            setQty = {setQty}
+                            handleAddCart ={handleAddCart} />
+                    </div>
+                    </div>
+            </div>
+            <button onClick={handleGoBack} className="returnButton btn btn-primary">Volver</button>
+            
         </div>
     )
 }   
