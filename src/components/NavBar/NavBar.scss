@@ -1,22 +1,4 @@
-.logo{
-    display: flex;
-    padding-top: 5px;
-    padding-left: 5px;
-    justify-content: space-between;
-    width: 100%;
-    height: 100%;
 
-    background-color: #00F6ED;
-    
-}
-.logoNombre{
-    display: flex;
-    margin-left: 30px;
-    img{
-        height: 64px;
-    }
-    
-}
 .buscador{
     display: flex;
     justify-content: center;
@@ -36,7 +18,7 @@
 .barraBusqueda {
     background-color: #939196;
     border-bottom: 3px solid #172A3A;
-    border-top: 2px solid #172A3A;
+    
     display: flex;
     justify-content: center;
     width: 100%;

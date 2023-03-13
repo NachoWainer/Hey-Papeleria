@@ -1,0 +1,474 @@
+[
+    {
+        "id": 0,
+        "type": "juguetes",
+        "name": "Ajedrez",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/ajedrez.jpg"
+    },
+    {
+        "id": 1,
+        "type": "juguetes",
+        "name": "combo Aro y Pelota",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/aroPelota.jpg"
+    },
+    {   
+        "id": 2,
+        "type": "juguetes",
+        "name": "Bloques Animales",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/bloqueAnimales.jpg"
+    
+    },
+    {
+        "id": 3,
+        "type": "juguetes",
+        "name": "KIWI",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 4,
+        "type": "juguetes",
+        "name": "FRUTILLA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 5,
+        "type": "juguetes",
+        "name": "NARANJA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 6,
+        "type": "juguetes",
+        "name": "LECHUGA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    },
+    {
+        "id": 7,
+        "type": "juguetes",
+        "name": "TOMATE",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    },
+    {
+        "id": 8,
+        "type": "juguetes",
+        "name": "CEBOLLA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 9,
+        "type": "juguetes",
+        "name": "ZANAHORIA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 10,
+        "type": "papeleria",
+        "name": "PALTA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 11,
+        "type": "papeleria",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 12,
+        "type": "papeleria",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 13,
+        "type": "papeleria",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 14,
+        "type": "papeleria",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 15,
+        "type": "papeleria",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 16,
+        "type": "papeleria",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 17,
+        "type": "papeleria",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 18,
+        "type": "papeleria",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 19,
+        "type": "papeleria",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 20,
+        "type": "libros",
+        "name": "MANZANA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    },
+    {
+        "id": 21,
+        "type": "libros",
+       "name": "BANANA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    },
+    {   
+        "id": 22,
+        "type": "libros",
+        "name": "PERA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 23,
+        "type": "libros",
+        "name": "KIWI",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 24,
+        "type": "libros",
+        "name": "FRUTILLA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 25,
+        "type": "libros",
+        "name": "NARANJA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 26,
+        "type": "libros",
+        "name": "LECHUGA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    },
+    {
+        "id": 27,
+        "type": "libros",
+        "name": "TOMATE",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    },
+    {
+        "id": 28,
+        "type": "libros",
+        "name": "CEBOLLA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 29,
+        "type": "libros",
+        "name": "ZANAHORIA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 30,
+        "type": "tecnologia",
+        "name": "PALTA",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 31,
+        "type": "tecnologia",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 32,
+        "type": "tecnologia",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 33,
+        "type": "tecnologia",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 34,
+        "type": "tecnologia",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 35,
+        "type": "tecnologia",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 36,
+        "type": "tecnologia",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 37,
+        "type": "tecnologia",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 38,
+        "type": "tecnologia",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    },
+    {
+        "id": 39 ,
+        "type": "tecnologia",
+        "name": "ZAPALLO",
+        "price": 200,
+        "stock": 100,
+        "qty": 1,
+        "clk":0,
+        "desc":" ",
+        "img":"/products/jugueteria/"
+    
+    }
+    ]

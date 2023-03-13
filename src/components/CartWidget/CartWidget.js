@@ -5,7 +5,7 @@ export const CartWidget = () => {
     <div className= "carrito">
 
         <img src='./images/carrito-de-compras32.png'/>
-        <p id = "ContadorCarrito">0</p>
+        <p id = "ContadorCarrito">10</p>
     </div>
         
     )
