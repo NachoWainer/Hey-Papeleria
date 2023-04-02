@@ -4,6 +4,8 @@ import { fetchDatos } from '../functions/fetchDatos'
 import { ItemList } from '../ItemList/ItemList'
 import { useParams } from 'react-router-dom'
 import './ItemListContainer.scss'
+import { collection, doc, getDocs, query, where } from 'firebase/firestore'
+import { db } from '../../firebase/config'
 
 
 export const ItemListContainer = () => {
@@ -14,16 +16,23 @@ export const ItemListContainer = () => {
     
     useEffect(() => {
         setLoading(true)
-        fetchDatos()
-        .then((response)=> {
-            (!category) ? setProductos(response) : setProductos(response.filter((element) => element.type === category))
-        })
-        .catch((error) => {
-            console.log(error)
-        })
-        .finally(() => {
-            setLoading(false)
-        })
+        const productosRef = collection(db,"productos")
+        const q = category 
+            ? query(productosRef,where("type","==",category))
+            : productosRef
+        getDocs(q)
+            .then((res) => {
+                const docs = res.docs.map((doc)=>{
+                    return{ ...doc.data(), id: doc.id}
+                })
+            
+            setProductos(docs)
+            })
+            .finally(() => {
+                setLoading(false)
+            })
+
+            
     },[category] )
     
     
