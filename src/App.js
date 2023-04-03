@@ -6,10 +6,12 @@ import {FrontStore} from "./components/FrontStore/FrontStore"
 import { ItemDetailContainer } from './components/ItemDetailContainer/ItemDetailContainer';
 import { Header } from './components/Header/Header';
 import Checkout from './components/Checkout.js/Checkout';
+import { Carrito } from './context/Carrito';
 
 
 function App() {
   return (
+   <Carrito.Provider>
     
     <BrowserRouter>
       <Header></Header>
@@ -26,6 +28,7 @@ function App() {
         
       
       </BrowserRouter>
+      </Carrito.Provider>
   );
 }
 
