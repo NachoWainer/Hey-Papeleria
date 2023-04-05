@@ -1,10 +1,13 @@
 import './ItemDetail.scss'
-import { useState } from 'react'
-import {useNavigate} from "react-router-dom"
+import { useContext, useState } from 'react'
+import {Link, useNavigate} from "react-router-dom"
 import ItemCount from "../ItemCount/ItemCount"
+import { CartContext } from '../../context/CartContext'
+
 
 
  const ItemDetail = ({item}) =>{
+    const{agregarAlCarrito, isInCart} = useContext(CartContext)
     const [qty, setQty] = useState(1)
     const navigate = useNavigate()
     const handleGoBack = () => {navigate(-1)}
@@ -14,7 +17,7 @@ import ItemCount from "../ItemCount/ItemCount"
             qty
             
         }
-    console.log(newItem)}
+    agregarAlCarrito(newItem)}
 
     return(
         <div className="itemDetailBox">
@@ -23,23 +26,31 @@ import ItemCount from "../ItemCount/ItemCount"
                     <img className='imgDetail' src={item.img} alt={item.name}/>
                     <div className= "itemDesc">
                         <div>
-                            <p>{item.desc}</p>
+                            <p>{item.description}</p>
                             
                         </div>
                         <div>
                         <p className='price'>${item.price}</p>
                         
-                        <ItemCount
+                        {
+                isInCart(item.id) ? 
+                <Link to="/cart"> Terminar Compra</Link>
+                :
+                <ItemCount
                             tope = {item.stock}
                             qty = {qty}
                             setQty = {setQty}
                             handleAddCart ={handleAddCart} />
+            }
                     </div>
                     </div>
             </div>
+            
             <button onClick={handleGoBack} className="returnButton btn btn-primary">Volver</button>
             
         </div>
+
     )
+    
 }   
 export default ItemDetail
