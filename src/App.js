@@ -5,9 +5,9 @@ import {BrowserRouter , Routes, Route,Navigate} from 'react-router-dom'
 import {FrontStore} from "./components/FrontStore/FrontStore"
 import { ItemDetailContainer } from './components/ItemDetailContainer/ItemDetailContainer';
 import { Header } from './components/Header/Header';
-import Checkout from './components/Checkout.js/Checkout';
 import { CartProvider } from './context/CartContext';
 import Cart from './components/Cart/Cart';
+import Checkout from './components/Checkout/Checkout';
 
 
 function App() {
