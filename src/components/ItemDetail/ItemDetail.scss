@@ -1,13 +1,29 @@
+.itemDetailComponent{
+    height:100%;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    margin-bottom: 25px;
+}
 .itemDetailBox{
     display: flex;
     flex-direction: column;
     align-content: space-between;
     flex-wrap: wrap;
+    background-image: url("../../../public/images/corchofondo.jpg");
+    height: fit-content;
+    max-width:fit-content;
+    border-width: 25px;
+    border-style: solid;
+    border-image: url("../../../public/images/woodTexture.jpg") 25% round;
+    
     h2{
-
+        font-size: 75px;
         text-align:center ;
         margin-left: 10px;
         margin-top: 5px;
+        font-weight: bold;
     }
       
      
@@ -23,6 +39,7 @@
     margin-bottom: 20px;
     
     
+    
 
   }
   .price{
@@ -30,29 +47,95 @@
     font-size: 25px;
   }
   .itemDetail{
+    justify-self: center;
     display: flex;
-    width: 90%;
+    width: 100%;
     justify-content: space-between;
     margin-left: 10px;
-    
     margin-top: 5px;
+    max-height: 600px;
     
 
    
 }
-.imgDetail{
-        
+.itemDescText{
+    background-color: #FDF21C;
+    width: fit-content;  
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+
+}
+.itemPriceBox{
+    background-color: #F4B416;  
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: column;
+   
+
+}
+.terminarCompra{
+    justify-self: center;
+}
+.itemDetailImgBox{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
     margin-left: 30px;
-    margin-right: 30px;
-    height: 500px;
-    width: 500px;
-    border: solid black 2px
+}
+.imgDetail1{
+       justify-self: center;
+       align-self: flex-start; 
+       height: 200px;
+       width: 200px;
+       z-index: 50;
+       rotate: -30deg;
+       translate:0px 25px;
+       transition: 0.5s ease;
+       &:hover{
+        rotate:0deg;
+        scale:1.25;
+       }
+    
+}
+.imgDetail2{
+        
+    justify-self: center;
+    align-self: flex-end; 
+    height: 250px;
+    width: 250px;
+    z-index: 1;
+    rotate: 30deg;
+    transform:translateX(-100px);
+    transition: 0.5s ease;
+       &:hover{
+        rotate:0deg;
+        scale:1.5;
+        z-index: 100;
+       }
+    
+}
+.imgDetail3{
+    justify-self: center;
+    align-self: flex-start; 
+    height: 200px;
+    width: 200px;
+    z-index: 50;
+    translate:0px -50px;
+    transition: 0.5s ease;
+       &:hover{
+        rotate:0deg;
+        scale:1.25;
+       }
+  
 }
 .returnButton{
     width: fit-content;
-    justify-self: end;
+    justify-self: start;
     align-self: center;
-    margin-top: 50px;
+    width: 200px;
+    margin-bottom: 10px;
 }
 
 

@@ -1,4 +1,4 @@
-import Item from "../Item/Item"
+import Item from "../Item/item"
 import { NavBar } from "../NavBar/NavBar"
 import './ItemList.scss'
 

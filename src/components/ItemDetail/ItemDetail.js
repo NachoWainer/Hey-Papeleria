@@ -3,6 +3,7 @@ import { useContext, useState } from 'react'
 import {Link, useNavigate} from "react-router-dom"
 import ItemCount from "../ItemCount/ItemCount"
 import { CartContext } from '../../context/CartContext'
+import { ItemPrice } from '../ItemPrice/ItemPrice'
 
 
 
@@ -20,34 +21,42 @@ import { CartContext } from '../../context/CartContext'
     agregarAlCarrito(newItem)}
 
     return(
-        <div className="itemDetailBox">
-            <h2>{item.name}</h2>
-            <div className='itemDetail'>
-                    <img className='imgDetail' src={item.img} alt={item.name}/>
-                    <div className= "itemDesc">
-                        <div>
-                            <p>{item.description}</p>
+        <div className='itemDetailComponent'>
+            <div className="itemDetailBox">
+                <h2>{item.name}</h2>
+                <div className='itemDetail'>
+                    <div className='itemDetailImgBox'>
+                        <img className='imgDetail1' src={item.img} alt={item.name}/>
+                        <img className='imgDetail2' src={item.img} alt={item.name}/>
+                        <img className='imgDetail3' src={item.img} alt={item.name}/>
+
+                    </div>
+                        <div className= "itemDesc">
+                            <div className="itemDescText">
+                                <p>{item.description}</p>
+                                
+                            </div>
+                            <div  className="itemPriceBox">
                             
+                            <ItemPrice item={item}/>
+                            
+                            {
+                    isInCart(item.id) ? 
+                    <Link className="terminarCompra btn btn-primary" to="/cart"> Terminar Compra</Link>
+                    :
+                    <ItemCount
+                                tope = {item.stock}
+                                qty = {qty}
+                                setQty = {setQty}
+                                handleAddCart ={handleAddCart} />
+                }
                         </div>
-                        <div>
-                        <p className='price'>${item.price}</p>
-                        
-                        {
-                isInCart(item.id) ? 
-                <Link to="/cart"> Terminar Compra</Link>
-                :
-                <ItemCount
-                            tope = {item.stock}
-                            qty = {qty}
-                            setQty = {setQty}
-                            handleAddCart ={handleAddCart} />
-            }
-                    </div>
-                    </div>
+                        </div>
+                </div>
+                
+                <button onClick={handleGoBack} className="returnButton btn btn-primary">Volver</button>
+                
             </div>
-            
-            <button onClick={handleGoBack} className="returnButton btn btn-primary">Volver</button>
-            
         </div>
 
     )

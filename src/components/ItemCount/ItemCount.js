@@ -11,7 +11,7 @@ const handleSub = () => {
 return(
     <div className="itemCount">
         <button onClick={handleSub} className="subButton btn btn-primary">-</button>
-        <p>{qty}</p>
+        <p className="itemQty">{qty}</p>
         <button onClick={handleAdd} className="addButton btn btn-primary">+</button>
         <button onClick={handleAddCart} className="addCartButton btn btn-primary">Agregar al Carrito</button>
 

@@ -1,0 +1,27 @@
+.discountedPrice{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: fit-content;
+}
+.discountedOriginalPrice{
+    font-size: small;
+    opacity: 50%;
+    text-align:end;
+    align-self: center;
+    margin-right: 5px;
+}
+.discountedNewPrice{
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+.discountedPercentage{
+    color: red;
+    font-weight: bold;
+}
+.Originalprice{
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}

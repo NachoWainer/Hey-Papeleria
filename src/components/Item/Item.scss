@@ -1,26 +1,47 @@
+.itemImage{
+    object-fit: cover;
+    max-height: 200px;
+    z-index: 10;
+}
 .itemContainer{
+   h4{
+    text-align: center;
+   }
+
+}
+
+.boxContainer{
     display: flex;
     flex-direction: column;
-}
+    overflow: hidden;
+    transition: 0.5s ease;
+    width: 300px;
+    
+    .infoContainer{
+        position: absolute;
+        width: inherit;
+        text-overflow:clip;
+        object-fit: cover;
+        overflow: hidden;
+        z-index: 1;
+    }
+    &:hover{
+        .itemImage{
+            opacity: 75%;
+            transition: 0.5s ease
+        }
+        .infoContainer{
+            
+            width: inherit;
+            height:150px;
+            translate:0px 200px;
+            transition: 0.5s ease;
 
-
-.itemImage{
-
-    height: 200px;
-    width: 250px;
-
-}
-.itemImageContainer{
-    align-self: center;
-    margin-bottom: 10px;
+            
+        }
+        height: fit-content;
+    }
 }
 .verMasButton{
-    width: 50%;
-    align-self: center;
-    margin-bottom: 5px;
-}
-.itemInfoContainer{
-    align-self: center;
-    flex-wrap: wrap;
-    text-align: center;
+    width: 100%;
 }
