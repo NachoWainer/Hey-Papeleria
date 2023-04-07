@@ -12,7 +12,7 @@ import {Link} from "react-router-dom"
             <h4>{item.name}</h4>
             
             <div className="boxContainer">
-                <img className="itemImage" src={item.img}/>
+                <img className="itemImage" src={item.img} alt={item.name}/>
                 <div className='infoContainer'>
                     <p>{item.shortDesc}</p>
                     <ItemPrice item={item}/>
