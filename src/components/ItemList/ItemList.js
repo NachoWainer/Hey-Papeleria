@@ -3,7 +3,6 @@ import { NavBar } from "../NavBar/NavBar"
 import './ItemList.scss'
 
 export const ItemList = ({items}) =>{
-    
     return(
         <div>
                <NavBar></NavBar>
