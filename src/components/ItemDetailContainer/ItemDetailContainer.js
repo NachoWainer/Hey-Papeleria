@@ -2,6 +2,7 @@
 import { useEffect } from 'react'
 import { useState } from 'react'
 import './ItemDetailContainer.scss'
+import { useParams } from 'react-router-dom'
 import ItemDetail from '../ItemDetail/ItemDetail'
 import { doc, getDoc } from 'firebase/firestore'
 import { db } from '../../firebase/config'
@@ -10,12 +11,11 @@ export const ItemDetailContainer = () => {
 
     const [item , setItem] = useState(null)
     const [loading,setLoading] = useState(true)
+    const {itemId} =useParams()
 
-
-    
     useEffect(() =>{
         setLoading(true)
-        const docRef = doc(db,"productos")
+        const docRef = doc(db,"productos",itemId)
         getDoc(docRef)
             .then((doc)=>{
                 setItem({
@@ -24,6 +24,7 @@ export const ItemDetailContainer = () => {
                 })
             })
             .finally(() => setLoading(false))
+            // eslint-disable-next-line
     },[])
     return(
         <div>
