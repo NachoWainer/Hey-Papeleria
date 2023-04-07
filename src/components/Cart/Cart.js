@@ -10,7 +10,7 @@ const Cart = () => {
     const {cart, totalCompra, vaciarCarrito, eliminarDelCarrito} = useContext(CartContext)
     return( cart.length === 0 ?
         <div className="carritoVacio">
-            <h2>No tieness productos en el carrito</h2>
+            <h2>No tienes productos en el carrito</h2>
             <hr/>
             <Link className="btn btn-primary" to="/">Ir a comprar</Link>
         </div>
