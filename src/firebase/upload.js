@@ -1,9 +1,9 @@
 import { addDoc, collection } from 'firebase/firestore'
-import STOCK_DATA from '../stock.json'
-import { db } from './config'
+import MOCK_DATA from '../MOCK_DATA.json' assert {type:'json'}
+import { db } from './config.js'
 
 
-const data = STOCK_DATA.map((item) => {
+const data = MOCK_DATA.map((item) => {
     delete item.id
     return item
 })

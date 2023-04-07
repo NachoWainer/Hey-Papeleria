@@ -8,14 +8,17 @@ import { Header } from './components/Header/Header';
 import { CartProvider } from './context/CartContext';
 import Cart from './components/Cart/Cart';
 import Checkout from './components/Checkout/Checkout';
+import { useState } from 'react';
 
 
 function App() {
+  const [color,changeColor] = useState("#f6f6f6");
   return (
    <CartProvider> 
     
       <BrowserRouter>
         <Header></Header>
+        <div style={{background: color}}>
         <Routes>
         
           <Route path='/' element = {<FrontStore></FrontStore> }></Route>
@@ -27,7 +30,7 @@ function App() {
 
         
         </Routes>
-          
+        </div>
         
         </BrowserRouter>
       </CartProvider>

@@ -1,6 +1,5 @@
 import { useEffect } from 'react'
 import { useState } from 'react'
-import { fetchDatos } from '../functions/fetchDatos'
 import { ItemList } from '../ItemList/ItemList'
 import { useParams } from 'react-router-dom'
 import './ItemListContainer.scss'

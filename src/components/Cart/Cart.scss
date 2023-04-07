@@ -1,4 +1,41 @@
 .cartImg{
-    width: 200px;
+    width: 250px;
     height: auto;
+}
+.cartDisplay{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+    
+    
+}
+.carritoVacio{
+    margin-left: 25px;
+}
+.cartItemInfo{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-self: center;
+    margin-left: 10px;
+    
+    button{
+        width: fit-content;
+    }
+}
+.itemInCart{
+    display: flex;
+    
+}
+.vaciarCarrito{
+    width: fit-content;
+}
+.terminarCompra{
+    width:fit-content
+} 
+.carritoOpt{
+    margin-top: 25px;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
 }

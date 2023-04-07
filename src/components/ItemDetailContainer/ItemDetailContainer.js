@@ -2,8 +2,6 @@
 import { useEffect } from 'react'
 import { useState } from 'react'
 import './ItemDetailContainer.scss'
-import { fetchDatos, fetchPorId } from '../functions/fetchDatos'
-import { ItemList } from '../ItemList/ItemList'
 import { useParams } from 'react-router-dom'
 import ItemDetail from '../ItemDetail/ItemDetail'
 import { doc, getDoc } from 'firebase/firestore'

@@ -27,13 +27,13 @@ import { ItemPrice } from '../ItemPrice/ItemPrice'
                 <div className='itemDetail'>
                     <div className='itemDetailImgBox'>
                         <img className='imgDetail1' src={item.img} alt={item.name}/>
-                        <img className='imgDetail2' src={item.img} alt={item.name}/>
-                        <img className='imgDetail3' src={item.img} alt={item.name}/>
+                        <img className='imgDetail2' src={item.img2} alt={item.name}/>
+                        <img className='imgDetail3' src={item.img3} alt={item.name}/>
 
                     </div>
                         <div className= "itemDesc">
                             <div className="itemDescText">
-                                <p>{item.description}</p>
+                                <p>{item.desc}</p>
                                 
                             </div>
                             <div  className="itemPriceBox">
