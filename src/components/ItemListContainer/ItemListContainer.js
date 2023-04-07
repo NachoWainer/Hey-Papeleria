@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { ItemList } from '../ItemList/ItemList'
 import { useParams } from 'react-router-dom'
 import './ItemListContainer.scss'
-import { collection, doc, getDocs, query, where } from 'firebase/firestore'
+import { collection, getDocs, query, where } from 'firebase/firestore'
 import { db } from '../../firebase/config'
 
 

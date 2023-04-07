@@ -12,7 +12,7 @@ import { useState } from 'react';
 
 
 function App() {
-  const [color,changeColor] = useState("#f6f6f6");
+  const [color] = useState("#f6f6f6");
   return (
    <CartProvider> 
     
