@@ -1,7 +1,6 @@
 import Item from "../Item/item"
 import { NavBar } from "../NavBar/NavBar"
 import './ItemList.scss'
-
 export const ItemList = ({items}) =>{
     return(
         <div>
