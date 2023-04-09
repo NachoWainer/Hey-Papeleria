@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom';
 export const Header = () => {
 
     return(
-        <header>
-        <div>
+        <header >
+        <div className='Header'>
 
             <div className="logo">
                 <Link to={"/"} className="logoNombre">

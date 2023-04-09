@@ -9,8 +9,9 @@ export const CartWidget = () => {
     <Link to="/cart" className= "carrito">
 
         <img src='../../images/carrito-de-compras32.png' alt='carrito de compras'/>
+        <div className='ContenedorContador'>
         <p id="ContadorCarrito">{totalCantidad()}</p>
-        
+        </div>
     </Link>
         
     )

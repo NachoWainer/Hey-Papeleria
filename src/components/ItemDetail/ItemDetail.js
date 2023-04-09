@@ -37,8 +37,9 @@ import { ItemPrice } from '../ItemPrice/ItemPrice'
                                 
                             </div>
                             <div  className="itemPriceBox">
-                            
+                            <p>precio por unidad:</p>
                             <ItemPrice item={item}/>
+                            
                             
                             {
                     isInCart(item.id) ? 

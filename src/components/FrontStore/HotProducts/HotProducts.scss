@@ -1,0 +1,45 @@
+.CarouselImage{
+    height: 550px;
+    width: 600px;
+}
+.carouselitemImage{
+    height: 300px;
+    width: 500px;
+}
+
+.carouselContainerBox{
+    justify-self: center;
+    height:90%;
+    width:90%;
+    
+}
+.carouselContainerBigBox{
+    display: grid;
+    
+}
+.CarouselShortDesc{
+    color: black;
+    font-weight: bold;
+
+}
+.CarouselItemPriceInfo{
+    
+    width: 100%;
+    justify-self: center;
+}
+.carouselItemTitle{
+    color: black;
+}
+.productosMasVendidos{
+   padding-left: 5%;
+   padding-top: 25px;
+   
+}
+.carousel-control-prev-icon{
+    background-color: black;
+    border-radius: 50%;
+}
+.carousel-control-next-icon{
+    background-color: black;
+    border-radius: 50%;
+}

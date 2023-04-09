@@ -9,6 +9,7 @@ import { CartProvider } from './context/CartContext';
 import Cart from './components/Cart/Cart';
 import Checkout from './components/Checkout/Checkout';
 import { useState } from 'react';
+import { Footer } from './components/Footer/Footer';
 
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
         </div>
         
         </BrowserRouter>
+        <Footer></Footer>
       </CartProvider>
   );
 }

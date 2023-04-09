@@ -16,12 +16,13 @@
 }
 
 .barraBusqueda {
-    background-color: #939196;
-    border-bottom: 3px solid #172A3A;
+    background-color: #C4C4C4;
+    padding-bottom: 5px;
     
     display: flex;
+    justify-self: center;
     justify-content: center;
-    width: 100%;
+    width: 90%;
     div{
     display:flex;
     justify-content: space-between;
@@ -39,4 +40,7 @@
         }
     }
     
+}
+.barraBusquedaContainer{
+    display: grid;
 }

@@ -6,7 +6,7 @@
         margin-top: 20px;
         display: flex;
         width: 800px;
-        height: 480px;
+        height: 300px;
         div{
             display: flex ;
             justify-content: center ;
@@ -23,14 +23,16 @@
                 height: 100%;
                 width:100%;
                 text-decoration: none;
-                color: red;
+                color: #006400;
+                font-size: xx-large;
+                border: 2px solid balck;
             }
             
             
             &:hover{
                 width: 300px;
                 opacity: 1;
-                filter: contrast(100%);
+                filter: contrast(80%);
             } 
 
             
